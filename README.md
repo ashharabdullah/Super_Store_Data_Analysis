@@ -67,9 +67,8 @@ Sales show seasonal peaks around November.
 
 🛠️ Tools Used
 
-Excel / Google Sheets → Data cleaning, pivot tables, KPI dashboard.
+Google Sheets → Data cleaning, pivot tables, KPI dashboard.
 
-Python (Pandas, Matplotlib) → KPI calculations and chart generation.
 
 Word / Markdown → Documentation & reporting.
 

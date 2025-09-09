@@ -81,16 +81,9 @@ I also documented the full journey on Medium:
 
 Open Superstore_Dashboard.xlsx to explore the raw data and dashboard.
 
-Review KPI results in KPI_Documentation.docx.
+Review KPI results in the Document.
 
-Check out the charts/ folder for visual insights.
 
 Read the blog for the full project write-up.
 
-✅ Future Improvements
 
-Automate KPI reporting with Python dashboards (Streamlit/Power BI).
-
-Add interactive visualizations.
-
-Expand analysis to customer lifetime value (CLV) and churn prediction.
